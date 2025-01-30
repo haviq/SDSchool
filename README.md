@@ -30,4 +30,12 @@ A comprehensive web-based School Information System built with PHP and MySQL to 
 - HTML/CSS
 - JavaScript
 
+## Screenshots
+
+### Dashboard
+![Dashboard](SDSS.png)
+
+
+### Login
+![Login](SDS.png)
 
