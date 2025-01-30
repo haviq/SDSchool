@@ -39,3 +39,5 @@ A comprehensive web-based School Information System built with PHP and MySQL to 
 ### Login
 ![Login](SDS.png)
 
+## Note
+Before Using and start program first Import Database in Mysql (systemschhol.sql)
