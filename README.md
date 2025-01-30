@@ -21,7 +21,7 @@ A comprehensive web-based School Information System built with PHP and MySQL to 
   - Subject Management
   - Schedule Management
 
-## Tech Stack
+## Main
 
 - PHP
 - MySQL
